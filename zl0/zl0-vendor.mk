@@ -160,10 +160,17 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/zl0/proprietary/vendor/bin/fidoca:system/vendor/bin/fidoca \
     vendor/leeco/zl0/proprietary/vendor/bin/mdtpd:system/vendor/bin/mdtpd \
     vendor/leeco/zl0/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
+    vendor/leeco/zl0/proprietary/vendor/lib/libSonyIMX298_ofilm_PdafLibrary.so:system/vendor/lib/libSonyIMX298_ofilm_PdafLibrary.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libSonyIMX298_ofilm_ak_PdafLibrary.so:system/vendor/lib/libSonyIMX298_ofilm_ak_PdafLibrary.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libSonyIMX298_truly_ak_PdafLibrary.so:system/vendor/lib/libSonyIMX298_truly_ak_PdafLibrary.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libSonyIMX298PdafLibrary.so:system/vendor/lib/libSonyIMX298PdafLibrary.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libactuator_ak7371.so:system/vendor/lib/libactuator_ak7371.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libactuator_bu63165.so:system/vendor/lib/libactuator_bu63165.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libactuator_bu64297.so:system/vendor/lib/libactuator_bu64297.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libactuator_dw9714.so:system/vendor/lib/libactuator_dw9714.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libactuator_dw9800w.so:system/vendor/lib/libactuator_dw9800w.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libactuator_lc898122.so:system/vendor/lib/libactuator_lc898122.so \
+    vendor/leeco/zl0/proprietary/vendor/lib/libactuator_lc898212xd.so:system/vendor/lib/libactuator_lc898212xd.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libchromatix_imx298_1080p_preview.so:system/vendor/lib/libchromatix_imx298_1080p_preview.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libchromatix_imx298_1080p_snapshot.so:system/vendor/lib/libchromatix_imx298_1080p_snapshot.so \
     vendor/leeco/zl0/proprietary/vendor/lib/libchromatix_imx298_1080p_video.so:system/vendor/lib/libchromatix_imx298_1080p_video.so \
